@@ -1,4 +1,4 @@
-# Dillinger
+# Boolean Functions - ARM Assembly
 In this repo you will find various exercises of Boolean functions, coded in ARM Assembly.
 
 ## _Conventions_
@@ -23,5 +23,4 @@ F(A,B,C,D,E) = /A./C + /A./D + D.E + A./E
 Function (Maxterms):
 F(A,B,C,D,E) = π(17,21,29,25,6,14)
 
-Execution:
 ![Run](https://i.imgur.com/e2d8PjK.png)
